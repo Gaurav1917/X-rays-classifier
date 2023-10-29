@@ -54,4 +54,8 @@
 ## 6.Sample 2
 ![sample_test_2](https://github.com/Gaurav1917/Radiography-test-classifier/assets/146158309/08e316e7-466e-479c-a0c0-0e3315d39fc9)
 
+##
+https://huggingface.co/spaces/Gaur1917/Radiography_test/tree/main
+Check by clicking url.
+
 
