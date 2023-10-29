@@ -43,9 +43,9 @@
 
 ![download (6)](https://github.com/Gaurav1917/Radiography-test-classifier/assets/146158309/38577228-0b9f-42ff-ad67-f7b23b5e909a)
 
-
-
-   ## 6.DRIVE LINK : https://drive.google.com/drive/folders/1Uy9mx5O0kMHl_kXbJmBp6mdXSXLPJeLB?usp=drive_link                                         
+## Drive link:
+https://drive.google.com/file/d/13wdpQv-d3qvVlyX9qc77-6436IulS6b3/view?usp=sharing
+                                        
 
 ## 5.Sample 1
 
