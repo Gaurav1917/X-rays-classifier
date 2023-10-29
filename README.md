@@ -45,14 +45,10 @@
 
 
 
-  
-## 5.DRIVE LINK : https://drive.google.com/drive/folders/1Uy9mx5O0kMHl_kXbJmBp6mdXSXLPJeLB?usp=drive_link                                         
-    The X_rays_project has four files(dataset, model(1).h5, radio_code.ipynb, X_raystest_prediction)
+   ## 6.DRIVE LINK : https://drive.google.com/drive/folders/1Uy9mx5O0kMHl_kXbJmBp6mdXSXLPJeLB?usp=drive_link                                         
 
-     a) radio_code.ipynb = It consist of full code of model.
-     b) X_raystest_prediction = This is for testing the model or deployment using gradio.
-     c) model(1).h5 = saved model.
-## 5.Sample 1     
+## 5.Sample 1
+
 ![sample_test_1](https://github.com/Gaurav1917/Radiography-test-classifier/assets/146158309/7a9616c3-2d48-4e6f-9a12-df0dcebf9b9f)
 
 ## 6.Sample 2
